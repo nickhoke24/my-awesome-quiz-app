@@ -1,0 +1,49 @@
+h1 {
+  font-size: 32px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+a {
+  text-align: center;
+}
+
+* {
+  margin: auto;
+  text-align: center;
+  padding: 15px;
+  background-color: #eee;
+}
+
+mat-card {
+  width: 40rem;
+  background-color: rgb(24, 0, 238);
+  color: #eee;
+}
+
+mat-card-title {
+  font-size: 32px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background-color: rgb(24, 0, 238);
+}
+
+mat-card-subtitle {
+  background-color: rgb(24, 0, 238);
+  color: #eee;
+}
+
+mat-card-content {
+  background-color: rgb(24, 0, 238);
+}
+
+button {
+  background-color: #000;
+  color: #FFF;
+}
+
+.welcome {
+  display: grid;
+}
+
+mat-card-actions {
+  background-color: rgb(24, 0, 238);
+}

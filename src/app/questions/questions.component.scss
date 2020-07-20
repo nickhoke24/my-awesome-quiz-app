@@ -1,0 +1,21 @@
+* {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text-align: center;
+  font-size: 24px;
+}
+
+.quiz {
+  height: 100vh;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000;
+}
+
+mat-card {
+  margin: auto;
+  width: 40rem;
+  // background-color: #e00;
+  // color: #eee;
+}
